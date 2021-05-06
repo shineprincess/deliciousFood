@@ -1,7 +1,7 @@
 const MenuInfo   = [
     {
         id:1,
-        image: "/images/butter_bacon_noodles.png",
+        image: "../public/images/butter_bacon_noodles.png",
         name:"maggie",
         category : "breakfast",
         price : "1200 Rs",
