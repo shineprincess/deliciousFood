@@ -37,7 +37,7 @@ const MyItems = (props) => {
                                                             <a href="https://www.facebook.com/priyanka.dhongde.7" > <button className="btn_dec">Order Now</button> </a>
                                                         </div>
 
-                                                        <p className="end_p">At the end of the strawberry season,🍓</p>
+                                                        <p className="end_p">Hurry up while still hesitating</p>
                                                         </div>
                                                     </div>
                                                     </div>
