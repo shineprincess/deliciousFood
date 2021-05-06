@@ -1,7 +1,7 @@
 const MenuInfo   = [
     {
         id:1,
-        image: "/public/images/butter_bacon_noodles.png",
+        image: "../images/butter_bacon_noodles.png",
         name:"maggie",
         category : "breakfast",
         price : "1200 Rs",
@@ -10,7 +10,7 @@ const MenuInfo   = [
 
     {
         id:2,
-        image: "/images/egg.png",
+        image: "../images/egg.png",
         name:"Poached Egg",
         category : "breakfast",
         price : "600 Rs",
@@ -19,7 +19,7 @@ const MenuInfo   = [
 
     {
         id:3,
-        image: "/images/banana_juice.png",
+        image: "../images/banana_juice.png",
         name:"Juice",
         category : "lunch",
         price : "950 Rs",
@@ -29,7 +29,7 @@ const MenuInfo   = [
 
     {
         id:4,
-        image: "/images/brown_cheese.png",
+        image: "../images/brown_cheese.png",
         name:"Brown Cheese",
         category : "breakfast",
         price : "500 Rs",
@@ -39,7 +39,7 @@ const MenuInfo   = [
 
     {
         id:5,
-        image: "/images/everlasting707_20200413_126.png",
+        image: "../images/everlasting707_20200413_126.png",
         name:"Gyudon",
         category : "evening",
         price : "1280 Rs",
@@ -59,7 +59,7 @@ const MenuInfo   = [
 
     {
         id:7,
-        image: "/images/pow.png",
+        image: "../images/pow.png",
         name:"Baked Toast",
         category : "breakfast",
         price : "450 Rs",
